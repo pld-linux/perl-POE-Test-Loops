@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	POE
 %define	pnam	Test-Loops
 Summary:	POE::Test::Loops - reusable tests for POE::Loop authors
