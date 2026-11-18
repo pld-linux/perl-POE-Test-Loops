@@ -7,13 +7,13 @@
 Summary:	POE::Test::Loops - reusable tests for POE::Loop authors
 Summary(pl.UTF-8):	POE::Test::Loops - testy do wykorzystywania przez autorów POE::Loop
 Name:		perl-POE-Test-Loops
-Version:	1.350
-Release:	2
+Version:	1.360
+Release:	1
 # same as perl 
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/POE/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	0ac7131832b3cd9f03edfcae53d634c0
+Source0:	https://www.cpan.org/authors/id/R/RC/RCAPUTO/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	7ee1aca3b18189d709cf89a7883d8f95
 URL:		http://search.cpan.org/dist/POE-Test-Loops/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
